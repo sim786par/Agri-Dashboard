@@ -68,27 +68,6 @@ Agriculture_Crop_Yield_Analysis/
     └── config.toml
 ```
 
----
-
-## 🤖 Machine Learning
-
-Models Tested:
-- Linear Regression
-- Ridge & Lasso Regression
-- KNN Regressor
-- Decision Tree Regressor
-- Random Forest Regressor
-
-### Final Model
-**Random Forest Regressor**
-
-Performance:
-- R² Score: **0.986**
-- Cross Validation Score: **0.955**
-- MSE: **10787**
-
----
-
 ## 📈 Dashboard Features
 
 - Yield Prediction
@@ -260,7 +239,6 @@ The dashboard helps answer:
 
 - What yield can be expected for a given crop and region?
 
----
 ---
 
 ## 📌 Future Enhancements
