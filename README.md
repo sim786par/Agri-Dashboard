@@ -6,6 +6,10 @@ ML-powered crop yield prediction and agricultural analytics dashboard built with
 This project analyzes agricultural data and predicts crop yield using Machine Learning. The model considers factors such as crop type, season, state, rainfall, fertilizer usage, pesticide usage, area, and production to estimate crop yield.
 
 ---
+<h2>Dashboard Preview</h2>
+
+<img src="![Uploading preview1.png…]()" width="800">
+---
 
 ## 🎯 Objectives
 
