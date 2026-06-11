@@ -8,7 +8,8 @@ This project analyzes agricultural data and predicts crop yield using Machine Le
 ---
 <h2>Dashboard Preview</h2>
 
-<img src="![Uploading preview1.png…]()" width="800">
+![Dashboard](<img width="1920" height="1080" alt="preview1" src="https://github.com/user-attachments/assets/0372cfda-5382-4e55-85c3-c9e28e35fad8" />)
+
 ---
 
 ## 🎯 Objectives
